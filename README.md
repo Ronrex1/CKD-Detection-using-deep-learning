@@ -19,7 +19,6 @@ The repository has the following structure:
 - <code>4x4.ipynb</code><br>
 - <code>64x64.ipynb</code><br>
 - <code>8x8.ipynb</code><br>
-- <code>LICENSE</code><br>
 - <code>README.md</code><br>
 - <code>requirements.txt</code><br>
 
@@ -34,8 +33,7 @@ To use this code, follow these steps:
 <li><b>Clone the repository to your local machine:</b>
  <br>
 
- ```bash
-git clone https://github.com/Danish-Jamil-01/kidney-tumor-detection.git
+
 ```
 </li>
 <br>
@@ -112,17 +110,3 @@ Potential improvements to enhance the project:
 - Conduct further analysis on the impact of input resolution on model interpretability.
 
 
-<br>
-
-## Contributing
-Contributions to this project are welcome. Feel free to open an issue or submit a pull request.
-
-<br>
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-<br>
-
-## Acknowledgments
-- <b>Dataset:</b> [CT-KIDNEY-DATASET-Normal-Cyst-Tumor-Stone](https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone)
